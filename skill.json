@@ -1,0 +1,23 @@
+{
+  "name": "genpark-personal-agent-pulmonary-driving-pressure-mechanical-power-skill",
+  "version": "1.0.0",
+  "description": "Calculates airway Driving Pressure (Delta P = Pplat - PEEP), Static Respiratory Compliance (Cstat), and Mechanical Power of Ventilation (MP) for personal lung protection and ventilator stress monitoring.",
+  "author": "AlphaPark",
+  "license": "Apache-2.0",
+  "keywords": [
+    "personal-agent",
+    "ai-agent",
+    "openclaw",
+    "genpark",
+    "mcp",
+    "mcp-server",
+    "model-context-protocol",
+    "python",
+    "zero-dependency",
+    "wellness",
+    "productivity",
+    "production-ready"
+  ],
+  "entrypoint": "client.py",
+  "mcp_server": "mcp_server.py"
+}
